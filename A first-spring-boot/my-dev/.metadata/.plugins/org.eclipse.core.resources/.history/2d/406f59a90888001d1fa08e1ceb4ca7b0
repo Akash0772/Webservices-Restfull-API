@@ -1,0 +1,21 @@
+package com.akash.app3;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class App3Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(App3Application.class, args);
+	}
+	
+	@Override
+	public void run(String... args) throw Exception {
+		System.out.println("command line argument");
+		for(string arg : args) {
+			System.out.println(arg);
+		}
+	}
+
+}
