@@ -1,0 +1,5 @@
+101;vijay;b;22;v@gmail.com
+102;bhanu;g;23;v@gmail.com
+103;swetha;d;26;v@gmail.com
+104;pava;u;28;v@gmail.com
+105;raghu;t;38;v@gmail.com
