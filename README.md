@@ -2,23 +2,23 @@
 
 ### 📄 Overview
 
-Yeh repository **Spring Boot** ka upyog karke alag-alag tarah ke **RESTful APIs** develop karne ke practical examples ka ek complete collection hai. Iska uddesh **Real-time usage tasks** aur **best practices** ko demonstrate karna hai.
+This repository is a complete collection of practical examples for developing different types of **RESTful APIs** using **Spring Boot**. Its purpose is to demonstrate **real-time usage tasks** and **best practices**.
 
 ### ✨ Key Topics Covered (Real-time Examples)
 
-Is project mein HTTP requests ko handle karne ke liye REST API development ke sabhi zaroori tareekon ko cover kiya gaya hai:
+This project covers all the essential methods of REST API development for handling HTTP requests:
 
-* **@PathVariable** ka upyog karke data retrieve karna.
-* **@RequestBody** (JSON/XML input) ka upyog karke data accept karna.
-* **@RequestParam** ka upyog karke parameters handle karna.
+* Retrieving data using **@PathVariable**.
+* Accepting data using **@RequestBody** (JSON/XML input).
+* Handling parameters using **@RequestParam**.
 * **Different Return Types** (e.g., String, Custom Objects, List).
-* **File Upload** aur **File Download** functionality.
-* **ResponseEntity** ka upyog karke HTTP status aur headers manage karna.
+* **File Upload** and **File Download** functionality.
+* Managing HTTP status and headers using **ResponseEntity**.
 * **Mail Sending** with Attachments (Real-time Utility).
 
 ### 🛠️ Technology Stack
 
-Is project mein nimnlikhit technologies ka upyog kiya gaya hai, jo mere **Java Full Stack** expertise ka hissa hain:
+This project uses the following technologies, which are part of my **Java Full Stack** expertise:
 
 | Category | Technology | Purpose |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ Is project mein nimnlikhit technologies ka upyog kiya gaya hai, jo mere **Java F
 
 ### 📂 Repository Structure
 
-Projects ko aasan understanding ke liye alphabetical order mein arrange kiya gaya hai:
+Projects are arranged in alphabetical order for easy understanding:
 
 * `A first-spring-boot/my-dev`: Basic Setup
 * `B webservices-return-types`: Different Return Types
